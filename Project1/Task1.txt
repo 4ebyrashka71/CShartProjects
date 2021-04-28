@@ -1,0 +1,8 @@
+The user enters the number of elements and the elements of the one-dimensional array of rows. Print those elements of the array that can be written in the form of concatenation of several of its immediate predecessors. For example, for the array {"news", "maker", "newsmaker", "step", "by", "step",
+"stepbystep"} "newsmaker" and "stepbystep" will be searched.
+
+
+Користувач вводить кількість елементів та самі елементи одновимірного масиву рядків. Вивести ті
+елементи масиву, які можуть бути записані у вигляді конкатенації кількох своїх безпосередніх
+попередників. Наприклад, для масиву {"news", "maker", "newsmaker", "step", "by", "step",
+"stepbystep"} шуканими будуть "newsmaker" та "stepbystep".

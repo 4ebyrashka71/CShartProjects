@@ -1,0 +1,6 @@
+Highlight the background color of those columns of the integer matrix, all elements of which are paired with each other
+simple. Draw a pie chart, the sectors of which correspond to the rows of the matrix, and the values are equal to the percentage of positive elements among all elements of the row.
+
+Виділити кольором фон тих стовпців цілочислової матриці, усі елементи яких є попарно взаємно
+простими. Зобразити кругову діаграму, сектори якої відповідають рядкам матриці, а значення рівні
+відсотку, який складають додатні елементи серед усіх елементів рядка.

@@ -1,0 +1,14 @@
+The "Goods" file has the following structure: product code, product name (codes are unique, names can
+repeat). Lines of the file "Deliveries" contain the product code, date, name of the supplier, volume
+deliveries, unit price.
+a) Print the average volume of deliveries of goods with a given code, made during the second half
+last year, the price of the goods in which is not less than the specified value.
+b) List the suppliers who have made the least number of deliveries of goods with a given name.
+
+
+Файл «Товари» має наступну структуру: код товару, назва товару (коди унікальні, назви можуть
+повторюватися). Рядки файлу «Поставки» містять код товару, дату, назву постачальника, обсяг
+поставок, ціну за одиницю.
+a) Вивести середній обсяг поставок товару із заданим кодом, здійснених протягом другого півріччя
+минулого року, ціна товару в яких не менша за задане значення.
+b) Вивести постачальників, які виконали найменшу кількість поставок товару із заданою назвою.
